@@ -26,7 +26,7 @@
 - Python
 
 ## Contact
-
+- 🌐 Portfolio: [22-soeda.github.io](https://22-soeda.github.io)
 - Email: soedayu.030622@gmail.com
 - Twitter: [@be_like_soeda](https://twitter.com/be_like_soeda)
 - Instagram: [@be_like_soeda](https://instagram.com/be_like_soeda)
